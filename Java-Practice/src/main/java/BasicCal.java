@@ -31,7 +31,7 @@ public class BasicCal {
             System.out.println("The modulus of two numbers is: " + (a % b));
             break;
         default:
-            System.out.println("Invalid operator");
+            System.out.println("Zamba");
 
 }
 
