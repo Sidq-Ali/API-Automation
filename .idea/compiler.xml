@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SystemTest" />
         <module name="AutomationFramework" />
+        <module name="Java-Practice" />
       </profile>
     </annotationProcessing>
   </component>
