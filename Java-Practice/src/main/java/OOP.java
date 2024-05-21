@@ -4,5 +4,6 @@ public class OOP {
         pen1.Color = "Blue";
         pen1.Type = "Gel";
         pen1.write();
+
     }
 }
