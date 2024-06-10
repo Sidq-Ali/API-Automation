@@ -7,9 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SystemTest" />
+        <module name="JavaPractice1" />
         <module name="AutomationFramework" />
-        <module name="Java-Practice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day3" target="19" />
+      <module name="Java-Practice" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
